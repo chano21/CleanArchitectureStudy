@@ -1,4 +1,4 @@
-## clean-architecture-study
+# clean-architecture-study
 
 - 삼각볼펜방식(http://agile.egloos.com/3684946) 을 기반으로 하되, 조금 변형한다.
 -- 빨간색 설명 : 중요도 상에 해당하는것으로 쪽수당 0~1개
