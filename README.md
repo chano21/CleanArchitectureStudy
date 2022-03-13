@@ -19,3 +19,4 @@
 --}
 -- 일요일 넘어가기전에 master로 pr 요청날리고 merge한다.(첫 merge는 chano가 함)
 - 책 다읽고 리뷰가끝나고나서 책 내용을기반으로한 간단한 페어프로젝트를 진행한다.
+# CleanArchitectureStudy
