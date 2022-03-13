@@ -1,3 +1,5 @@
+## clean-architecture-study
+
 - 삼각볼펜방식(http://agile.egloos.com/3684946) 을 기반으로 하되, 조금 변형한다.
 -- 빨간색 설명 : 중요도 상에 해당하는것으로 쪽수당 0~1개
 -- 파란색 설명 : 중요도 중에 해당하는것으로 쪽수당 0~N개
@@ -19,4 +21,3 @@
 --}
 -- 일요일 넘어가기전에 master로 pr 요청날리고 merge한다.(첫 merge는 chano가 함)
 - 책 다읽고 리뷰가끝나고나서 책 내용을기반으로한 간단한 페어프로젝트를 진행한다.
-# CleanArchitectureStudy
